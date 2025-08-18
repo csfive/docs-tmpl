@@ -14,7 +14,7 @@ const configs = {
   title: 'docs-title',
   description: 'docs-description',
   repo: 'csfive/docs-template',
-  umamiId: 'dfd65e36-145e-4d2a-a5c5-5bf11eab5c8e',
+  umamiId: '8d09c14f-ebd7-4f3b-8e34-9d364e9eb207',
   chineseFont:
     'https://chinese-fonts-cdn.deno.dev/packages/lxgwwenkaibright/dist/LXGWBright-Medium/result.css',
   googleFont:
