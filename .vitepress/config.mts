@@ -14,9 +14,9 @@ const configs = {
   title: 'docs-title',
   description: 'docs-description',
   repo: 'csfive/docs-template',
-  umamiId: '8d09c14f-ebd7-4f3b-8e34-9d364e9eb207',
+  umamiId: '1a61a245-3656-4481-b23c-9403b4e11f98',
   chineseFont:
-    'https://chinese-fonts-cdn.deno.dev/packages/lxgwwenkaibright/dist/LXGWBright-Medium/result.css',
+    'https://chinese-fonts-cdn.netlify.app/packages/lxgwwenkaibright/dist/LXGWBright-Medium/result.css',
   googleFont:
     'https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap',
 }
