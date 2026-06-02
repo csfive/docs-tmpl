@@ -2,10 +2,8 @@ import { defineConfig, type DefaultTheme, type HeadConfig } from 'vitepress'
 
 const sidebar: DefaultTheme.Sidebar = [
   {
-    items: [
-      { text: 'docs template', link: '/docs-template/' },
-    ],
-  }
+    items: [{ text: 'docs template', link: '/docs-template/' }],
+  },
 ]
 
 const configs = {
